@@ -13,30 +13,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/matiasgonta"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/matiasgonta" /></a></p><br><br>
-
-
-<code> const matias = {
-	"name" : "Matias Gonta",
-	"Description" : "Front-end freelance developer with four months of experience in the ruble. Self-taught with curiosity as a basis for improvement and constant interest in learning new technologies. My goal is to grow my professional career as a front-end developer", 
-	"Personal Information" : {
-		"Age" : "19",
-		"Birthdate" : "02/05/2003",
-		"Location" : "Cañada de Gomez, Santa Fe, Argentina",
-		"Nationality" : "Argentina"
-	},
-	"Contact" : {
-		"Ubication" : "Ayacucho 372",
-		"Tel" : "3471 585369",
-		Socials: {
-			"Email" : "maret2023@gmail.com",
-			"Linkedin" : "Matias Gonta",
-			"Instagram" : "matigonta_",
-			"CodePen" : "MatiasGonta"
-		}
-	},
-	"Language" : {
-		"Spanish" : "100% (native language)",
-		"English" : "80%",
-		"Portuguese" : "30%"
-	},
-};</code>
