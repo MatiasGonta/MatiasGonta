@@ -44,10 +44,10 @@
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/2560px-Flag_of_Spain.svg.png" alt="Spanish" width="100px" />
-<br />
+</p>
 
 ---
-</a>
+<br/>
 <h1 align="left">¡Hola 👋, soy Matías!</h1>
 <h3 align="center">Desarrollador Front-end con conocimientos de Back-end utilizando NodeJS y MongoDB. Autodidacta con curiosidad como base de superación e interés constante por aprender nuevas tecnologías. Mi objetivo es hacer crecer mi carrera profesional como desarrollador.</h3>
 
