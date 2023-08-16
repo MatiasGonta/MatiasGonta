@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Matias</h1>
-<h3 align="center">Front-end freelance developer with four months of experience in the ruble. Self-taught with curiosity as a basis for improvement and constant interest in learning new technologies. My goal is to grow my professional career as a front-end developer.</h3>
+<h3 align="center">Front-end developer with knowledge of Back-end using NodeJS and MongoDB. Self-taught with curiosity as a basis for improvement and constant interest in learning new technologies. My goal is to grow my professional career as developer.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
