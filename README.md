@@ -51,7 +51,7 @@
 <h1 align="left">¡Hola 👋, soy Matías!</h1>
 <h3 align="center">Desarrollador Front-end con conocimientos de Back-end utilizando NodeJS y MongoDB. Autodidacta con curiosidad como base de superación e interés constante por aprender nuevas tecnologías. Mi objetivo es hacer crecer mi carrera profesional como desarrollador.</h3>
 
-<h3 align="left">Conéctate conmigo:</h3>
+<h3 align="left">Contáctame:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/matiasgonta" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matiasgonta" height="30" width="40" /></a>
