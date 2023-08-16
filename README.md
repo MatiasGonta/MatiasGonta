@@ -3,7 +3,7 @@
 </p>
 
 ---
-
+<br />
 <h1 align="left">¡Hi 👋, I'm Matias!</h1>
 <h3 align="center">Front-end developer with knowledge of Back-end using NodeJS and MongoDB. Self-taught with curiosity as a basis for improvement and constant interest in learning new technologies. My goal is to grow my professional career as developer.</h3>
 
@@ -39,15 +39,15 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
   </a>
 </p>
-
+<br />
 ---
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/2560px-Flag_of_Spain.svg.png" alt="Spanish" width="100px" />
-</p>
+<br />
 
 ---
-
+</a>
 <h1 align="left">¡Hola 👋, soy Matías!</h1>
 <h3 align="center">Desarrollador Front-end con conocimientos de Back-end utilizando NodeJS y MongoDB. Autodidacta con curiosidad como base de superación e interés constante por aprender nuevas tecnologías. Mi objetivo es hacer crecer mi carrera profesional como desarrollador.</h3>
 
