@@ -7,21 +7,13 @@
 <h1 align="left">¡Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Matias! </h1>
 <h2>Frontend Developer 🎨</h2>
 
-<h3 align="left">Contact me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/matiasgonta" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matiasgonta" height="30" width="40" /></a>
-  <a href="https://instagram.com/matigonta_" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="matigonta_" height="30" width="40" /></a>
-</p>
-
-### About Me
+## About Me
 - I am 20 years old and I am from Cañada de Gomez, Santa Fe, Argentina.
 - I am a MERN full stack developer.
 - I am a self-taught with curiosity as a basis for improvement and constant interest in learning new technologies.
 - I enjoy working with the frontend because I want to provide the best visual experience for the users who visit my projects.
 
-### Technologies
+## Technologies
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
   ![GIT](https://img.shields.io/badge/-GIT-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -34,7 +26,7 @@
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
 
-### Contact Me
+## Contact Me
 <a href="https://linkedin.com/in/matiasgonta" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-matiasgonta-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/matigonta_/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-matigonta_-blue?style=flat-square&logo=instagram"></a>
 <a href="maret2023@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-maret2023@gmail.com-blue?style=flat-square&logo=gmail"></a>  
