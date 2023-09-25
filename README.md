@@ -31,6 +31,8 @@
 <a href="https://www.instagram.com/matigonta_/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-matigonta_-blue?style=flat-square&logo=instagram"></a>
 <a href="maret2023@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-maret2023@gmail.com-blue?style=flat-square&logo=gmail"></a>  
 
+![GitHub Activity](https://github-readme-stats.vercel.app/api?username=MatiasGonta&show_icons=true)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MatiasGonta&label=Profile%20views&color=0e75b6&style=flat" alt="matiasgonta" /> </p>
 ---
 
