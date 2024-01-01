@@ -11,7 +11,6 @@
 - I am 20 years old and I am from Cañada de Gomez, Santa Fe, Argentina.
 - I am a MERN full stack developer.
 - I am a self-taught with curiosity as a basis for improvement and constant interest in learning new technologies.
-- I enjoy working with the frontend because I want to provide the best visual experience for the users who visit my projects.
 
 ## Technologies
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -51,7 +50,6 @@
 - Tengo 20 años y soy de Cañada de Gómez, Santa Fe, Argentina.
 - Soy un desarrollador full stack MERN.
 - Soy autodidacta con la curiosidad como base para mejorar y un interés constante en aprender nuevas tecnologías.
-- Disfruto trabajando en el frontend porque quiero proporcionar la mejor experiencia visual para los usuarios que visitan mis proyectos.
 
 ## Tecnologías
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
