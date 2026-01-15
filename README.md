@@ -8,7 +8,7 @@
 <h2>Frontend Developer 🎨</h2>
 
 ## About Me
-- I am 20 years old and I am from Cañada de Gomez, Santa Fe, Argentina.
+- I am 22 years old and I am from Cañada de Gomez, Santa Fe, Argentina.
 - I am a MERN full stack developer.
 - I am a self-taught with curiosity as a basis for improvement and constant interest in learning new technologies.
 
@@ -48,7 +48,7 @@
 <h2>Desarrollador Frontend 🎨</h2>
 
 ## Acerca de mí
-- Tengo 20 años y soy de Cañada de Gómez, Santa Fe, Argentina.
+- Tengo 22 años y soy de Cañada de Gómez, Santa Fe, Argentina.
 - Soy un desarrollador full stack MERN.
 - Soy autodidacta con la curiosidad como base para mejorar y un interés constante en aprender nuevas tecnologías.
 
