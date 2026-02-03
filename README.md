@@ -5,7 +5,7 @@
 ---
 <br />
 <h1 align="left">¡Hi 👋, I'm Matias! </h1>
-<h2>Frontend Developer 🎨</h2>
+<h2>Frontend Developer</h2>
 
 ## About Me
 - I am 22 years old and I am from Cañada de Gomez, Santa Fe, Argentina.
@@ -45,7 +45,7 @@
 ---
 <br/>
 <h1 align="left">¡Hola 👋, soy Matías!</h1>
-<h2>Desarrollador Frontend 🎨</h2>
+<h2>Desarrollador Frontend</h2>
 
 ## Acerca de mí
 - Tengo 22 años y soy de Cañada de Gómez, Santa Fe, Argentina.
