@@ -13,19 +13,19 @@
 
 ## 🇬🇧 About Me
 
-- 💻 **Frontend Developer with 3+ years of experience** based in Argentina (remote), building complex web applications, SaaS admin panels, and high-performance corporate websites.
+- 💻 **Frontend Developer with 3+ years of experience** building complex web applications, SaaS admin panels, and high-performance corporate websites.
 - 🧩 Focused on **scalable frontend architecture**, reusable & accessible UI components (ARIA), complex state management, and solid REST/BFF API integrations.
 - 🚀 I integrate **Generative AI, agentic coding tools, and Spec-Driven Development (SDD)** into my workflow to improve delivery speed, architecture, and documentation quality.
-- 🛠️ **Recent production work:** visual DAG workflow editors & e-signature modules, fintech back-office platforms & real-time credit simulators, multi-tenant RBAC portals, and bilingual static sites in Astro.
+- ✨ **I am driven by continuous learning**, solving real-world problems, and delivering value through clear and effective communication. Complementing my technical profile, my previous background in Business Administration gives me business acumen and a holistic perspective when working with technical and product teams.
 
 ---
 
 ## 🇦🇷 Acerca de mí
 
-- 💻 **Desarrollador Frontend con +3 años de experiencia** desde Argentina (remoto), construyendo aplicaciones web complejas, paneles administrativos SaaS y sitios corporativos de alto rendimiento.
+- 💻 **Desarrollador Frontend con +3 años de experiencia** construyendo aplicaciones web complejas, paneles administrativos SaaS y sitios corporativos de alto rendimiento.
 - 🧩 Enfocado en **arquitectura frontend escalable**, componentes UI reutilizables y accesibles (ARIA), manejo de estado complejo e integraciones sólidas con APIs REST/BFF.
 - 🚀 Integro **IA Generativa, asistentes de codificación agénticos y desarrollo guiado por especificaciones (SDD)** en mi flujo diario para optimizar entregas, arquitectura y documentación.
-- 🛠️ **Experiencia reciente en producción:** editores visuales de flujos (DAG) y módulos de firma electrónica, plataformas back-office fintech y simuladores de crédito en tiempo real, portales multi-tenant con RBAC y sitios bilingües en Astro.
+- ✨ **Me motiva aprender de forma continua**, resolver problemas reales y aportar valor con una comunicación clara y efectiva. Como complemento a mi perfil técnico, mi formación previa en Ciencias de la Administración me aporta criterio de negocio y una mirada integral al trabajar con equipos técnicos y de producto.
 
 ---
 
@@ -73,5 +73,8 @@
   </a>
   <a href="mailto:maret2023@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.me/5493471585369" target="_blank">
+    <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
