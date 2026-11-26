@@ -1,78 +1,77 @@
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/2560px-Flag_of_the_United_Kingdom.svg.png" alt="English" width="100px" />
-</p>
+<div align="center">
+  <h1>Hi, I'm Matías Gonta 👋</h1>
+  <h3>Frontend Developer · React • Next.js • TypeScript • Vite • Astro</h3>
+  <p>
+    <a href="#-about-me">English</a> ·
+    <a href="#-acerca-de-mí">Español</a> ·
+    <a href="#-tech-stack">Tech Stack</a> ·
+    <a href="#-contact--contacto">Contact</a>
+  </p>
+</div>
 
 ---
-<br />
-<h1 align="left">¡Hi 👋, I'm Matias! </h1>
-<h2>Frontend Developer</h2>
 
-## About Me
-- I am 22 years old and I am from Cañada de Gomez, Santa Fe, Argentina.
-- I am a MERN full stack developer.
-- I am a self-taught with curiosity as a basis for improvement and constant interest in learning new technologies.
+## 🇬🇧 About Me
 
-## Technologies
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
-  ![GIT](https://img.shields.io/badge/-GIT-333333?style=flat&logo=git)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![SCSS](https://img.shields.io/badge/-SCSS-333333?style=flat&logo=SASS&logoColor=CE6B9E)
-  ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-333333?style=flat&logo=tailwindcss&logoColor=38BDF8)
-  ![Astro](https://img.shields.io/badge/-Astro-333333?style=flat&logo=astro&logoColor=F4F4F5)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
-  ![Nextjs](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=Next.js)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
-
-## Contact Me
-<a href="https://linkedin.com/in/matiasgonta" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-matiasgonta-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/matigonta_/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-matigonta_-blue?style=flat-square&logo=instagram"></a>
-<a href="maret2023@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-maret2023@gmail.com-blue?style=flat-square&logo=gmail"></a>  
-
-![GitHub Activity](https://github-readme-stats.vercel.app/api?username=MatiasGonta&show_icons=true)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MatiasGonta&label=Profile%20views&color=0e75b6&style=flat" alt="matiasgonta" /> </p>
-
-
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/2560px-Flag_of_Spain.svg.png" alt="Spanish" width="100px" />
-</p>
+- 💻 **Frontend Developer with 3+ years of experience** based in Argentina (remote), building complex web applications, SaaS admin panels, and high-performance corporate websites.
+- 🧩 Focused on **scalable frontend architecture**, reusable & accessible UI components (ARIA), complex state management, and solid REST/BFF API integrations.
+- 🚀 I integrate **Generative AI, agentic coding tools, and Spec-Driven Development (SDD)** into my workflow to improve delivery speed, architecture, and documentation quality.
+- 🛠️ **Recent production work:** visual DAG workflow editors & e-signature modules, fintech back-office platforms & real-time credit simulators, multi-tenant RBAC portals, and bilingual static sites in Astro.
 
 ---
-<br/>
-<h1 align="left">¡Hola 👋, soy Matías!</h1>
-<h2>Desarrollador Frontend</h2>
 
-## Acerca de mí
-- Tengo 22 años y soy de Cañada de Gómez, Santa Fe, Argentina.
-- Soy un desarrollador full stack MERN.
-- Soy autodidacta con la curiosidad como base para mejorar y un interés constante en aprender nuevas tecnologías.
+## 🇦🇷 Acerca de mí
 
-## Tecnologías
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
-  ![GIT](https://img.shields.io/badge/-GIT-333333?style=flat&logo=git)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![SCSS](https://img.shields.io/badge/-SCSS-333333?style=flat&logo=SASS&logoColor=CE6B9E)
-  ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-333333?style=flat&logo=tailwindcss&logoColor=38BDF8)
-  ![Astro](https://img.shields.io/badge/-Astro-333333?style=flat&logo=astro&logoColor=F4F4F5)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
-  ![Nextjs](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=Next.js)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
+- 💻 **Desarrollador Frontend con +3 años de experiencia** desde Argentina (remoto), construyendo aplicaciones web complejas, paneles administrativos SaaS y sitios corporativos de alto rendimiento.
+- 🧩 Enfocado en **arquitectura frontend escalable**, componentes UI reutilizables y accesibles (ARIA), manejo de estado complejo e integraciones sólidas con APIs REST/BFF.
+- 🚀 Integro **IA Generativa, asistentes de codificación agénticos y desarrollo guiado por especificaciones (SDD)** en mi flujo diario para optimizar entregas, arquitectura y documentación.
+- 🛠️ **Experiencia reciente en producción:** editores visuales de flujos (DAG) y módulos de firma electrónica, plataformas back-office fintech y simuladores de crédito en tiempo real, portales multi-tenant con RBAC y sitios bilingües en Astro.
 
-## Contáctame
-<a href="https://linkedin.com/in/matiasgonta" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-matiasgonta-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/matigonta_/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-matigonta_-blue?style=flat-square&logo=instagram"></a>
-<a href="maret2023@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-maret2023@gmail.com-blue?style=flat-square&logo=gmail"></a> 
+---
 
-![GitHub Activity](https://github-readme-stats.vercel.app/api?username=MatiasGonta&show_icons=true)
+## 🧰 Tech Stack
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MatiasGonta&label=Profile%20views&color=0e75b6&style=flat" alt="matiasgonta" /> </p>
+**Core**  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square)
+
+**State, Data & Forms**  
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![TanStack Table](https://img.shields.io/badge/TanStack_Table-18181B?style=flat-square)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
+![Valibot](https://img.shields.io/badge/Valibot-18181B?style=flat-square)
+
+**Styling & UI**  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![CSS Modules](https://img.shields.io/badge/CSS_Modules-18181B?style=flat-square)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=flat-square&logo=radixui&logoColor=white)
+![i18next](https://img.shields.io/badge/i18next-26A69A?style=flat-square&logo=i18next&logoColor=white)
+
+**Tools & Runtime**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+---
+
+## 📫 Contact / Contacto
+
+<p>
+  <a href="https://linkedin.com/in/matiasgonta" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" />
+  </a>
+  <a href="mailto:maret2023@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
